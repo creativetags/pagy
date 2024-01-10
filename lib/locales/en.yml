@@ -3,6 +3,8 @@
 en:
   pagy:
 
+    pagination: "pagination"
+
     item_name:
       one: "item"
       other: "items"
